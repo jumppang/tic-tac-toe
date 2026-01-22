@@ -1,0 +1,21 @@
+
+{
+  "name": "tic-tac-toe",
+  "version": "1.0.0",
+  "main": "/src/index.js",
+  "scripts": {
+    "start": "rect-scripts start",
+    "build": "rect-scripts build", 
+    "eject": "rect-scripts eject",
+    "test": "rect-scripts test --env=jsdom"
+  },
+  "dependencies": {
+    "rect": "^19.2.1",
+    "rect-dom": "^19.2.1",
+    "rect-scripts": "^5.0.0"
+  },
+  "devDependencies": {},
+  "author": "jusu",
+  "license": "ISC",
+  "description": ""
+}
